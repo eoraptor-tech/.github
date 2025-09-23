@@ -12,7 +12,7 @@ This document provides guidelines for contributing to our projects. Whether you'
 
 We are committed to providing a friendly, safe, and welcoming environment for all, regardless of level of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, or nationality.
 
-Please read and adhere to our [Code of Conduct](https://www.google.com/search?q=https://github.com/rust-eoraptor/.github/blob/main/CODE_OF_CONDUCT.md).
+Please read and adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 ## **🦖 How Can I Contribute?**
 
