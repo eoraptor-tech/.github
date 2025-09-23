@@ -41,14 +41,14 @@ We primarily focus on the Rust ecosystem, but we also explore technologies that 
 
 Here are some of our most interesting repositories. Feel free to explore them!
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/rust-eoraptor/REPO_NAME_1">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rust-eoraptor&repo=REPO_NAME_1&theme=tokyonight" />
   </a>
   <a href="https://github.com/rust-eoraptor/REPO_NAME_2">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rust-eoraptor&repo=REPO_NAME_2&theme=tokyonight" />
   </a>
-</p>
+</p> -->
 
 ## 🌱 How to Contribute?
 
@@ -63,8 +63,8 @@ We are open to collaboration! If you love Rust and the idea of building software
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rust-eoraptor&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" />
-</p>
+</p>-->
 
 <p align="center">Thanks for visiting our corner of the coding Jurassic.</p>
