@@ -1,3 +1,8 @@
+<div align="right">
+    <img src="https://komarev.com/ghpvc/?username=rust-eoraptor&style=flat-square&color=blue" alt=""/>
+  <br/>
+</div>
+
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/233878561?s=400&u=fa9f02d5be28382c0115519ed5e941edd9706ee3&v=4" alt="rust-eoraptor banner" width="200"/>
 </p>
