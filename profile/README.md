@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <!-- <a href="URL_TO_YOUR_DISCORD_OR_COMMUNITY_CHANNEL_IF_YOU_HAVE_ONE"><img src="https://img.shields.io/badge/Join-Community-blue?style=for-the-badge&logo=discord" alt="Discord"></a> -->
+  <a href="https://www.youtube.com/@rust-eoraptor"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" alt="YouTube"></a>
   <a href="https://github.com/rust-eoraptor?tab=repositories"><img src="https://img.shields.io/badge/Active-Projects-green?style=for-the-badge&logo=github" alt="Projects"></a>
 </p>
 
@@ -32,6 +32,16 @@
 
 This space is a laboratory for experimenting, sharing knowledge, and developing open-source projects that are both useful and efficient.
 
+## 📺 Watch & Learn
+
+We believe in open education. On our YouTube channel, we document our journey, share tutorials, and break down complex Rust concepts.
+
+* **Tutorials**: Step-by-step guides on Rust development.
+* **Devlogs**: Behind-the-scenes looks at the projects built in this organization.
+* **Educational Content**: Deep dives into the ecosystem and best practices.
+
+👉 **[Subscribe to @rust-eoraptor](https://www.youtube.com/@rust-eoraptor)** to join the expedition.
+
 ## 🛠️ Our Tech Stack
 
 We primarily focus on the Rust ecosystem, but we also explore technologies that complement it well.
@@ -46,15 +56,6 @@ We primarily focus on the Rust ecosystem, but we also explore technologies that 
 
 Here are some of our most interesting repositories. Feel free to explore them!
 
-<!-- <p align="center">
-  <a href="https://github.com/rust-eoraptor/REPO_NAME_1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rust-eoraptor&repo=REPO_NAME_1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/rust-eoraptor/REPO_NAME_2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rust-eoraptor&repo=REPO_NAME_2&theme=tokyonight" />
-  </a>
-</p> -->
-
 ## 🌱 How to Contribute?
 
 We are open to collaboration! If you love Rust and the idea of building software in an agile way, this is the place for you.
@@ -64,12 +65,7 @@ We are open to collaboration! If you love Rust and the idea of building software
 3.  **Submit a Pull Request**: Code contributions are always welcome.
 
 > For more details, please review our [Contribution Guidelines](https://github.com/rust-eoraptor/.github/blob/main/CONTRIBUTING.md).
-> *(You would need to create this file as well)*
 
 ---
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rust-eoraptor&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" />
-</p>-->
 
 <p align="center">Thanks for visiting our corner of the coding Jurassic.</p>
