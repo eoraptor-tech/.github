@@ -1,13 +1,13 @@
 <div align="right">
-    <img src="https://komarev.com/ghpvc/?username=rust-eoraptor&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=eoraptor-tech&style=flat-square&color=blue" alt=""/>
   <br/>
 </div>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/233878561?s=400&u=fa9f02d5be28382c0115519ed5e941edd9706ee3&v=4" alt="rust-eoraptor banner" width="200"/>
+  <img src="https://avatars.githubusercontent.com/u/233878561?s=400&u=fa9f02d5be28382c0115519ed5e941edd9706ee3&v=4" alt="eoraptor-tech banner" width="200"/>
 </p>
 
-<h1 align="center">Welcome to <code>rust-eoraptor</code></h1>
+<h1 align="center">Welcome to <code>eoraptor-tech</code></h1>
 
 <p align="center">
   Inspired by one of the earliest and most agile dinosaurs, here we explore the Rust ecosystem with speed and efficiency.
@@ -16,15 +16,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@rust-eoraptor"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" alt="YouTube"></a>
-  <a href="https://github.com/rust-eoraptor?tab=repositories"><img src="https://img.shields.io/badge/Active-Projects-green?style=for-the-badge&logo=github" alt="Projects"></a>
+  <a href="https://www.youtube.com/@eoraptor-tech"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" alt="YouTube"></a>
+  <a href="https://github.com/eoraptor-tech?tab=repositories"><img src="https://img.shields.io/badge/Active-Projects-green?style=for-the-badge&logo=github" alt="Projects"></a>
 </p>
 
 ---
 
 ## 🦖 Who are we?
 
-`rust-eoraptor` is a collective of code explorers with a passion for **Rust**. Our name reflects our philosophy:
+`eoraptor-tech` is a collective of code explorers with a passion for **Rust**. Our name reflects our philosophy:
 
 * **Primal and Foundational**: We focus on the solid principles that make Rust so powerful.
 * **Agile and Fast**: We leverage modern tools, like **AI-assisted coding** (`vaicoding`), to prototype, learn, and build at high speed.
@@ -40,7 +40,7 @@ We believe in open education. On our YouTube channel, we document our journey, s
 * **Devlogs**: Behind-the-scenes looks at the projects built in this organization.
 * **Educational Content**: Deep dives into the ecosystem and best practices.
 
-👉 **[Subscribe to @rust-eoraptor](https://www.youtube.com/@rust-eoraptor)** to join the expedition.
+👉 **[Subscribe to @eoraptor-tech](https://www.youtube.com/@eoraptor-tech)** to join the expedition.
 
 ## 🛠️ Our Tech Stack
 
@@ -64,7 +64,7 @@ We are open to collaboration! If you love Rust and the idea of building software
 2.  **Open an issue**: If you have an idea, a suggestion, or have found a bug, don't hesitate to open an issue!
 3.  **Submit a Pull Request**: Code contributions are always welcome.
 
-> For more details, please review our [Contribution Guidelines](https://github.com/rust-eoraptor/.github/blob/main/CONTRIBUTING.md).
+> For more details, please review our [Contribution Guidelines](https://github.com/eoraptor-tech/.github/blob/main/CONTRIBUTING.md).
 
 ---
 
